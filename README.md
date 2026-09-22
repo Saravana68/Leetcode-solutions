@@ -1,4 +1,4 @@
-# Leetcode - 300 🔥
+# Leetcode
 
 ![SARAVANA KUMAR (7)](https://user-images.githubusercontent.com/63772127/193979625-904e1405-32a4-4b06-9c37-762cdf4e7078.jpg) <br/><br/>
 ![image](https://user-images.githubusercontent.com/63772127/202963192-0cbb1f88-1d78-4073-9f43-0dec2785b086.png)
